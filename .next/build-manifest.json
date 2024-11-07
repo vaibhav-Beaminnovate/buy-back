@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/cT-mOzzfVr8NwI4i6iTk1/_buildManifest.js",
-    "static/cT-mOzzfVr8NwI4i6iTk1/_ssgManifest.js"
+    "static/EvLa69B6qBNyFjeJe4kUi/_buildManifest.js",
+    "static/EvLa69B6qBNyFjeJe4kUi/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -52,8 +52,8 @@
       "static/chunks/webpack-b2122ef1ce658b85.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/css/9002bf0639985319.css",
-      "static/chunks/pages/_app-42683dac8d9b5c69.js"
+      "static/css/82039f1d9bf7c076.css",
+      "static/chunks/pages/_app-a061c74f9fe7668a.js"
     ],
     "/_error": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
@@ -129,7 +129,7 @@
       "static/chunks/webpack-b2122ef1ce658b85.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/chunks/pages/liquidator/login-4b07363484afe87b.js"
+      "static/chunks/pages/liquidator/login-5f75d6789fc68105.js"
     ],
     "/liquidator/profile": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
@@ -169,7 +169,7 @@
       "static/chunks/webpack-b2122ef1ce658b85.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/chunks/pages/warehouse/login-51ab9e5459376971.js"
+      "static/chunks/pages/warehouse/login-bbdeb391a49f9faf.js"
     ],
     "/warehouse/shipment/[shipmentID]": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
