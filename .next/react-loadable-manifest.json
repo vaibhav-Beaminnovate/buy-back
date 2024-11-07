@@ -11,6 +11,12 @@
       "static/chunks/607.80b6fb45728a868d.js"
     ]
   },
+  "pages\\dashboard\\orders\\index.js -> print-js": {
+    "id": 8607,
+    "files": [
+      "static/chunks/607.80b6fb45728a868d.js"
+    ]
+  },
   "pages\\dashboard\\shipments\\create-shipment\\[[...shipmentID]].js -> react-qr-barcode-scanner": {
     "id": 2802,
     "files": [

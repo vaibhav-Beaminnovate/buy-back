@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/EvLa69B6qBNyFjeJe4kUi/_buildManifest.js",
-    "static/EvLa69B6qBNyFjeJe4kUi/_ssgManifest.js"
+    "static/ktmlNVzUHcPIe7mc0RyCU/_buildManifest.js",
+    "static/ktmlNVzUHcPIe7mc0RyCU/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -52,7 +52,7 @@
       "static/chunks/webpack-b2122ef1ce658b85.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/css/82039f1d9bf7c076.css",
+      "static/css/8d814023b2271c9a.css",
       "static/chunks/pages/_app-a061c74f9fe7668a.js"
     ],
     "/_error": [
@@ -86,9 +86,10 @@
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
       "static/chunks/260-59cae99f399c8ea0.js",
+      "static/chunks/427-9cc45af59987bd6c.js",
       "static/chunks/854-7220fe571e8b1244.js",
       "static/chunks/720-5815c789680b73c6.js",
-      "static/chunks/pages/dashboard/orders-01387ba7dc1434cf.js"
+      "static/chunks/pages/dashboard/orders-1d9456025eb3c911.js"
     ],
     "/dashboard/shipments": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
@@ -100,7 +101,7 @@
       "static/chunks/620-935145f02465d9cc.js",
       "static/chunks/854-7220fe571e8b1244.js",
       "static/chunks/824-115c64c4e3e95ceb.js",
-      "static/chunks/pages/dashboard/shipments-02e5b3956a226138.js"
+      "static/chunks/pages/dashboard/shipments-78fb13ab301ca5d9.js"
     ],
     "/dashboard/shipments/create-shipment/[[...shipmentID]]": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
@@ -109,7 +110,7 @@
       "static/chunks/260-59cae99f399c8ea0.js",
       "static/chunks/242-980c50da48b20a2c.js",
       "static/chunks/541-8f954bd84f93dfad.js",
-      "static/chunks/pages/dashboard/shipments/create-shipment/[[...shipmentID]]-2d515a7cb0a0ec29.js"
+      "static/chunks/pages/dashboard/shipments/create-shipment/[[...shipmentID]]-6a9cde3ec9cd799e.js"
     ],
     "/liquidator": [
       "static/chunks/webpack-b2122ef1ce658b85.js",
