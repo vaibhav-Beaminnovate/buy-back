@@ -1,32 +1,70 @@
 {
-  "components\\Receipt.js -> print-js": {
-    "id": 8607,
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> canvg": {
+    "id": 34668,
     "files": [
-      "static/chunks/607.80b6fb45728a868d.js"
+      "static/chunks/72a30a16.e189df1661897ea6.js",
+      "static/chunks/4033.17ffe530bd7f58ad.js"
+    ]
+  },
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> dompurify": {
+    "id": 27856,
+    "files": [
+      "static/chunks/7856.241a0acb7329f797.js"
+    ]
+  },
+  "..\\node_modules\\jspdf\\dist\\jspdf.es.min.js -> html2canvas": {
+    "id": 61120,
+    "files": []
+  },
+  "components\\BarcodeReader.js -> barcode-detector": {
+    "id": 3087,
+    "files": [
+      "static/chunks/3087.9d800b5e15759e1d.js"
+    ]
+  },
+  "components\\Receipt.js -> print-js": {
+    "id": 68607,
+    "files": [
+      "static/chunks/8607.c63ac8ad8b7b3ea6.js"
+    ]
+  },
+  "pages\\Brands\\product\\questions\\[...variant_order].js -> html2pdf.js": {
+    "id": 80599,
+    "files": [
+      "static/chunks/e78312c5.a205a7ee3255d785.js",
+      "static/chunks/38a8da06.bdcd28906c844bda.js",
+      "static/chunks/ad7f724d.3adf69e682510a82.js",
+      "static/chunks/3778.4a02ee376ed24892.js"
     ]
   },
   "pages\\Brands\\product\\questions\\[...variant_order].js -> print-js": {
-    "id": 8607,
+    "id": 68607,
     "files": [
-      "static/chunks/607.80b6fb45728a868d.js"
+      "static/chunks/8607.c63ac8ad8b7b3ea6.js"
     ]
   },
   "pages\\dashboard\\orders\\index.js -> print-js": {
-    "id": 8607,
+    "id": 68607,
     "files": [
-      "static/chunks/607.80b6fb45728a868d.js"
+      "static/chunks/8607.c63ac8ad8b7b3ea6.js"
+    ]
+  },
+  "pages\\dashboard\\pending_orders\\index.js -> print-js": {
+    "id": 68607,
+    "files": [
+      "static/chunks/8607.c63ac8ad8b7b3ea6.js"
     ]
   },
   "pages\\dashboard\\shipments\\create-shipment\\[[...shipmentID]].js -> react-qr-barcode-scanner": {
-    "id": 2802,
+    "id": 12802,
     "files": [
-      "static/chunks/802.8d97619e5fabdd87.js"
+      "static/chunks/2802.09e3a0f6cfc6865d.js"
     ]
   },
   "pages\\dashboard\\shipments\\index.js -> print-js": {
-    "id": 8607,
+    "id": 68607,
     "files": [
-      "static/chunks/607.80b6fb45728a868d.js"
+      "static/chunks/8607.c63ac8ad8b7b3ea6.js"
     ]
   }
 }
