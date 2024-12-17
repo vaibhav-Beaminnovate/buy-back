@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/hP9lXpW5byg4ZNL79t3Er/_buildManifest.js",
-    "static/hP9lXpW5byg4ZNL79t3Er/_ssgManifest.js"
+    "static/_gMplU_fos-UET2Cdcrz3/_buildManifest.js",
+    "static/_gMplU_fos-UET2Cdcrz3/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -231,7 +231,7 @@
       "static/chunks/framework-0e8d27528ba61906.js",
       "static/chunks/main-83cd60d6ee800c1f.js",
       "static/chunks/3f06fcd6-d7ccdde6021cd8d7.js",
-      "static/chunks/pages/warehouse/pending-confirmation-db7c7c164587fc87.js"
+      "static/chunks/pages/warehouse/pending-confirmation-380dd32afdf27459.js"
     ],
     "/warehouse/products": [
       "static/chunks/webpack-2aced3c008b602f6.js",
@@ -249,13 +249,13 @@
       "static/chunks/7242-b0d9bf395e06e8f7.js",
       "static/chunks/934-d1b24262ce4b6842.js",
       "static/chunks/3628-1142c21fb23792aa.js",
-      "static/chunks/pages/warehouse/shipment/[shipmentID]-e31b7b2e7ae5178b.js"
+      "static/chunks/pages/warehouse/shipment/[shipmentID]-c42bdaff52c813b9.js"
     ],
     "/warehouse/shipments": [
       "static/chunks/webpack-2aced3c008b602f6.js",
       "static/chunks/framework-0e8d27528ba61906.js",
       "static/chunks/main-83cd60d6ee800c1f.js",
-      "static/chunks/pages/warehouse/shipments-98938b4211c4c1ed.js"
+      "static/chunks/pages/warehouse/shipments-b627149598be5a21.js"
     ]
   },
   "ampFirstPages": []
