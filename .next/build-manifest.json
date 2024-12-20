@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/-dfnGGJ7NFW3CRrssHwzU/_buildManifest.js",
-    "static/-dfnGGJ7NFW3CRrssHwzU/_ssgManifest.js"
+    "static/-wdZ7Pex0EXSK817m4GoY/_buildManifest.js",
+    "static/-wdZ7Pex0EXSK817m4GoY/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -172,7 +172,7 @@
       "static/chunks/260-9d9fb2500f2be579.js",
       "static/chunks/3882-d6728f262ca5a426.js",
       "static/css/4d3d9169b46fed63.css",
-      "static/chunks/pages/liquidator/auction/[auctionID]-2e5adc2ac42561c5.js"
+      "static/chunks/pages/liquidator/auction/[auctionID]-1fa91520c586eacd.js"
     ],
     "/liquidator/login": [
       "static/chunks/webpack-2aced3c008b602f6.js",
